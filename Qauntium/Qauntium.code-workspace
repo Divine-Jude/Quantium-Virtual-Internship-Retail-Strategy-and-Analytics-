@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"python.analysis.typeCheckingMode": "basic"
+	},
+	"extensions": {
+		"recommendations": [
+			"ms-python.python"
+		]
+	}
+}
